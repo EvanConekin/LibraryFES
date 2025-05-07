@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "libraryFES"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "libraryFES"
+	}
+}
